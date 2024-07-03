@@ -1,0 +1,16 @@
+QLabel{
+    background-color: blue;
+    color:white; font-size: 20px; 
+    font: 14pt "MS Shell Dlg 2"; 
+    text-align: center;
+}
+
+QPushButton{
+    background-color: black;
+    color:white; 
+    border-style: solid;
+    border-color:red;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 20px;
+}

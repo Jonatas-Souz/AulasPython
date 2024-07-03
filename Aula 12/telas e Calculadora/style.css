@@ -1,0 +1,42 @@
+QWidget{
+    background-color: white;
+}
+QLineEdit{
+    background-color: tomato;
+    height: 150px;
+    width: 400px;
+    border: none;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+QPushButton{
+    background-color: white;
+    color:tomato;
+    border-style: solid;
+    border-color:tomato;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+/* 
+QWidget{
+    background-color: white;
+}
+QLineEdit{
+    background-color: tomato;
+    color: white;
+    font-size: 18px;
+    border: none;
+    
+}
+QPushButton{
+    color: tomato;
+    font-size: 18px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: tomato;
+} */
